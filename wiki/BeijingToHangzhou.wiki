@@ -6,6 +6,8 @@
 
 = 详情 =
 
-  * 行程计划
-  * 骑行装备
-  * 游记
+  * [JingHangPlan 行程计划] (10月1日-10月11日）
+  * [JingHangEquipment 骑行装备]
+  * [JingHangStory 骑行笔记]
+  * [JingHangThanksTo 感谢]
+  * [JingHangAbout 关于我们]
