@@ -1,4 +1,4 @@
-#labels u
+#labels bike,decathon,hangzhou,beijing,cycling
 #京杭骑行2010
 
 = 概述 =
