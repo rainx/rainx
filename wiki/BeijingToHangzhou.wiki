@@ -15,3 +15,4 @@
   * [JingHangThanksTo 感谢]
   * [JingHangAbout 关于我们]
   * 微博: http://t.sina.com.cn/rainx1982
+  * 京杭骑行的地图轨迹文件 ：http://code.google.com/p/rainx/downloads/list
