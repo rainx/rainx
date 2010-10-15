@@ -11,7 +11,7 @@
 
   * [JingHangPlan 行程计划] (10月1日-10月11日）
   * [JingHangEquipment 骑行装备]
-  * [JingHangStory 骑行笔记]
+  * [JingHangStory 骑行笔记] <font color="red">hot!</font>
   * [JingHangThanksTo 感谢]
   * [JingHangAbout 关于我们]
   * 微博: http://t.sina.com.cn/rainx1982
