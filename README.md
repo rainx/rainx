@@ -1,6 +1,6 @@
-Hi, I am [Jing Xu(RainX)](https://www.rainx.cc/), a life experiencer, a father, a programmer, and someone who wishes to exchange stories with you. I am living in Beijing. 
+Hi, I am [Jing Xu(RainX)](https://www.rainx.cc/), an experimenter of life, a father, a programmer, and someone eager to exchange stories with you. I am living in Beijing. 
 
-I have experienced (or be experiencing) the following adventures in my life:
+I have experienced (and am still experiencing) the following adventures in my life:
 
 - 🩼 As a primary school student, I started my programming career by using a machine with a 6502 chip and running Basic.
 - 🎮 During my university years, I wrote Tetris using Turbo C 2.0.
@@ -11,6 +11,6 @@ I have experienced (or be experiencing) the following adventures in my life:
 - 🏛️ I joined the startup company RightCapital and continued my career in the Fintech industry.
 - ❤️ I got married, welcomed the birth of my daughter, and accompanied her as she grew up.
 - 🎵 I was into K-pop culture.
-- 📖 I translated a book into Chinese even though my English sucks.
+- 📖 I translated a book into Chinese, challenging my English skills(my English is very bad though).
 - 🚲 It took 12 days for me to ride from Beijing to Hangzhou, covering a distance of approximately 1400km.
 - ♾️ And more in the future,
