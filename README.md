@@ -1,9 +1,9 @@
-Hi, I am [Jing Xu(RainX)](https://www.rainx.cc/), an experimenter of life, a father, a programmer, and someone eager to exchange stories with you. I am living in Beijing. 
+Hi, I am [Jing Xu(RainX)](https://www.rainx.cc/), an explorer of life's journey, a father, a programmer, and someone eager to exchange stories with you. I am living in Beijing. 
 
-I have experienced (and am still experiencing) the following adventures in my life:
+Throughout my journey, I've had the privilege of embarking on (and continuing to embark on) these exciting adventures:
 
 - 🩼 As a primary school student, I started my programming career by using a machine with a 6502 chip and running Basic.
-- 🎮 During my university years, I wrote Tetris using Turbo C 2.0.
+- 🎮 During my university years, I wrote a Tetris game using Turbo C 2.0.
 - 🇾 As a graduate, I joined Yahoo!, which was the largest website in the world at that time (2004).
 - 🏪 I worked for Alibaba Group, which is the largest e-commerce website in China.
 - 📱 Towards the end of 2010, I left Alibaba Group and joined the boom of the mobile internet industry.
@@ -13,4 +13,5 @@ I have experienced (and am still experiencing) the following adventures in my li
 - 🎵 I was into K-pop culture.
 - 📖 I translated a book into Chinese, challenging my English skills(my English is very bad though).
 - 🚲 It took 12 days for me to ride from Beijing to Hangzhou, covering a distance of approximately 1400km.
+- 🏓 I am practicing table tennis and, despite my limited skill, I thoroughly enjoy playing it.
 - ♾️ And more in the future,
