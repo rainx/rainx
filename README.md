@@ -14,4 +14,5 @@ Throughout my journey, I've had the privilege of embarking on (and continuing to
 - 📖 I translated a book into Chinese, challenging my English skills(my English is very bad though).
 - 🚲 It took 12 days for me to ride from Beijing to Hangzhou, covering a distance of approximately 1400km.
 - 🏓 I am practicing table tennis and, despite my limited skill, I thoroughly enjoy playing it.
+- 🤖 I am collaborating with AI to accomplish the dreams and goals I haven't yet achieved.
 - ♾️ And more in the future,
