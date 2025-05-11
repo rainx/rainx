@@ -10,7 +10,7 @@ Throughout my journey, I've had the privilege of embarking on (and continuing to
 - 📱 Towards the end of 2010, I left Alibaba Group and joined the boom of the mobile internet industry.
 - 📈 I researched and developed a Python project on quantitative trading, which was (once) well-known by many people. (In fact, I intended to learn Python development through this project)
 - 🏛️ I joined the startup company RightCapital and continued my career in the fintech industry.
-- ❤️ I got married, welcomed the birth of my daughter, and accompanied her as she grew up.
+- ❤️ I met and married my wife, Titikaka. We welcomed the birth of our daughter, Jane, and we accompanied her as she grew up.
 - 🎵 I was into K-pop culture.
 - 📖 I translated a book into Chinese, challenging my English skills(my English is very bad though).
 - 🚲 It took 12 days for me to ride from Beijing to Hangzhou, covering a distance of approximately 1400km.
