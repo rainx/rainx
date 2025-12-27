@@ -1,3 +1,5 @@
+[![Get to know RainX](assets/get-to-know-rainx-cover.jpg)](https://www.youtube.com/watch?v=o9o1ZVPM0O0)
+
 Hi, I am [Jing Xu(RainX)](https://www.rainx.cc/), an explorer of life's journey, a father, a programmer, and someone eager to exchange stories with you. I am living in Beijing. 
 
 Throughout my journey, I've had the privilege of embarking on (and continuing to embark on) these exciting adventures:
